@@ -1,1 +1,28 @@
-
+{
+  "horarios": [
+    {
+      "id": "1",
+      "hora": "10:00",
+      "periodo": "Manhã",
+      "disponivel": true
+    },
+    {
+      "id": "2",
+      "hora": "08:00",
+      "periodo": "Manhã",
+      "disponivel": true
+    },
+    {
+      "id": "3",
+      "hora": "14:30",
+      "periodo": "Tarde",
+      "disponivel": false
+    },
+    {
+      "id": "4",
+      "hora": "11:45",
+      "periodo": "Manhã",
+      "disponivel": true
+    }
+  ]
+}
