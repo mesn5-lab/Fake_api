@@ -1,28 +1,32 @@
 {
-  "horarios": [
+  "medicamentos": [
     {
       "id": "1",
-      "hora": "10:00",
-      "periodo": "Manhã",
-      "disponivel": true
+      "nome": "Pílula Anticoncepcional",
+      "dose": "1 comprimido",
+      "tipo_icone": "pilula",
+      "motivo": "Prevenção de gravidez e controle do ciclo"
     },
     {
       "id": "2",
-      "hora": "08:00",
-      "periodo": "Manhã",
-      "disponivel": true
+      "nome": "Ácido Fólico 5mg",
+      "dose": "1 comprimido",
+      "tipo_icone": "pilula",
+      "motivo": "Suplementação pré-concepcional"
     },
     {
       "id": "3",
-      "hora": "14:30",
-      "periodo": "Tarde",
-      "disponivel": false
+      "nome": "Meloxicam 500mg",
+      "dose": "1 comprimido",
+      "tipo_icone": "dor",
+      "motivo": "Alívio de cólicas menstruais intensas"
     },
     {
       "id": "4",
-      "hora": "11:45",
-      "periodo": "Manhã",
-      "disponivel": true
+      "nome": "Sulfato Ferroso 40mg",
+      "dose": "1 comprimido",
+      "tipo_icone": "pilula",
+      "motivo": "Prevenção de anemia devido ao fluxo intenso"
     }
   ]
 }
